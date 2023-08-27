@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Givenchie
-- 👀 I’m interested in learning Fullstack web development in python flask and MERN stack
--  My databases include Postgresql and MongoDB(mongoose)
-- 🌱 I’m currently building a fullstack e-commerce web application
-- 💞️ I’m looking to collaborate on projects developed in python flask and MERN stack
-- 📫 Feel free to email me whenever you have any interesting projects. 
-
-<!---
-GivenMoreti/GivenMoreti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I am a fullstack developer currently studying computer science and Information technology.
+I am looking to collaborate on big projects built in stacks such as MERN,PYthon Django,React Native.
+Highly backend based although React Native really thrills me on a mobile dev end.
+My email is moretigven@gmail.com, get in touch and let's cook a killer technological collosal.
+Believe me this is my passion and I don't work a day in my life.
