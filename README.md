@@ -4,7 +4,7 @@ I am looking to collaborate on big projects built in stacks such as MERN,Python 
 Highly backend based although React Native really thrills me on a mobile dev end.
 My email is moretigiven@gmail.com, get in touch and let's cook a killer technological collosal.
 Happy coding!
-
+[![](https://visitcount.itsvg.in/api?id=GivenMoreti&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Given chie) 
 
