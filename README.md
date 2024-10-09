@@ -1,4 +1,4 @@
-Hi I am a fullstack developer currently studying computer science and Information technology.
+Hi I am a backend developer currently studying computer science and Information technology.
 My modules for 2023 includes Python, C# Windows Desktop Applications and C++ fundamentals.
 2024 modules are java OOP,Advanced C# Desktop Applications,Asp.net website creation,Information systems and design, Data Structures and Algorithms,Information security and Data Analytics.
 I am looking to collaborate on big projects built in stacks such as MERN,Python Django,Flutter,Asp.net.
