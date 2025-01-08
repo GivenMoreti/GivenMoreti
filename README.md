@@ -1,7 +1,8 @@
 Hi I am a backend developer currently studying computer science and Information technology.
 My modules for 2023 includes Python, C# Windows Desktop Applications and C++ fundamentals.
 2024 modules are java OOP,Advanced C# Desktop Applications,Asp.net website creation,Information systems and design, Data Structures and Algorithms,Information security and Data Analytics.
-I am looking to collaborate on big projects built in stacks such as MERN,Python Django,Flutter,Asp.net.
+I am looking to collaborate on big projects built in stacks such as MERN,Springboot, Python Django,Flutter,Asp.net.
+
 Highly backend based although React Native really thrills me on a mobile dev end.
 My email is moretigiven@gmail.com, get in touch and let's cook a killer technological collosal.
 Happy coding!
