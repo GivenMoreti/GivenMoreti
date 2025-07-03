@@ -1,4 +1,3 @@
-Backend development, Software engineering, Best practices, Clean architecture.
 Happy coding!
 
 
