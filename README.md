@@ -1,3 +1,9 @@
+💻 Avid Programmer | 🎮 Anime & Gaming Enthusiast | 🎨 Abstract Art & Memes Lover
+
+I’m fluent in multiple programming languages and bring a proactive, problem-solving mindset with strong leadership qualities.
+
+Currently, I’m working on an exciting mobile app project built with Flutter  and an ASP.NET API.
+
 Happy coding!
 
 
